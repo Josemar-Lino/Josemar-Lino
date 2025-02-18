@@ -1,4 +1,8 @@
-## Ola eu sou Josêmar Lino👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D4BF7&width=435&lines=+%2B+welcome+to+my+profile+!+" alt="Typing SVG">
+  </a>
+</div>
 
 ### 📊 Estatísticas
 
